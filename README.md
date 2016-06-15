@@ -1,4 +1,4 @@
 # hello-world
-TUTORIAL - 
-MY NAME IS STAKKA
-WHAT'S YOUR NAME
+Tutorial.
+Hello everyone!
+My name is Stakka, and I am learning Android Studio.
